@@ -1,0 +1,5 @@
+Coloque nesta pasta as imagens com os nomes:
+imagem1.jpg, imagem2.jpg, imagem3.jpg ... imagem10.jpg
+(também pode ser .png)
+
+Veja o que vai em cada uma no arquivo LISTA_DE_IMAGENS.txt
